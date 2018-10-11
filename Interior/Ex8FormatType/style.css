@@ -1,0 +1,25 @@
+.dis11{
+	float:left;
+	width: 500px;
+	height:200px;
+	margin:10%;
+}
+.dis1a{
+	float: left;
+	border: 5px solid black;
+	font-family: 'Charmonman', cursive;
+	font-size: 50px;
+	background-color: #D7DBDD;
+}
+.dis1b{
+	text-align: center;
+	font-family: 'Satisfy', cursive;
+	float:left;
+	font-size: 25px;
+}
+.dis1c{
+	margin:2%;
+	float: left;
+	font-family: 'Roboto', sans-serif;
+	width:450px;
+}
