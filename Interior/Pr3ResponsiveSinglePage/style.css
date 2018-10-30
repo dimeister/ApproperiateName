@@ -1,0 +1,37 @@
+img{
+	max-width: 100%;
+}
+#container{
+	width:75vw;
+	margin:0 auto;
+	background-color:pink;
+}
+.headline{
+	width:50vw;
+	margin: 0 auto;
+	background-color:purple;
+}
+h1{
+	color:white;
+	text-align: center;
+}
+p{
+	font-size: 1.5em;
+}
+
+@media only screen and (max-width: 600px){
+	body{background-color:tomato;
+	}
+	#container{
+		width:90vw;
+}
+	.headline{
+		width:90vw;
+}
+	h1{
+		font-size:2.2em;
+}
+	p{
+		font-size: 2.2em;
+}
+}
