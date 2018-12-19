@@ -1,2 +1,30 @@
-.h1
-	
+body, html {
+	position:fixed;
+	width:100vw;
+	height:100vh;
+	left:0px;
+
+	background-size:cover;
+	background-image: url('https://i0.wp.com/www.moviedeskback.com/wp-content/uploads/2013/08/The-Great-Gatsby-wallpapers-1920x1080-10.jpg');
+	background-repeat:no-repeat;
+	margin-left:0vw;
+	margin-top:0px;
+		}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Dosis', sans-serif;
+	color:white;
+	letter-spacing:.1em;
+	}
+
+background-image: url('https://i0.wp.com/www.moviedeskback.com/wp-content/uploads/2013/08/The-Great-Gatsby-wallpapers-1920x1080-10.jpg');
+
+#textbox {
+	position:absolute;
+	width:70vw;
+	height:auto;
+	left:50%;
+}
+#container {position:absolute; left:0px; top:0px; margin-left:20%; margin-right:20%; margin-top:3%;
+}
+			l}

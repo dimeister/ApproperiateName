@@ -1,0 +1,44 @@
+
+#header {
+	position:absolute;
+	top:0px;
+	width:900px;
+	height:auto;
+	left:50%;
+	
+	background-color:red;
+}
+#links {
+	position:relative;
+	width:900px;
+	margin:0px auto;
+	color:black;
+}
+
+#container {
+	position:relative;
+	top:150px;
+	width:100vw;
+	height:auto;
+	margin:0px auto;
+}
+#image {
+	position:relative;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.horizontal {
+	width:600px;
+	
+}
+.vertical {
+	height:600px;
+	
+}
+
+h1, h2, h3, h4, h5, h6 {font-family: 'Dosis', sans-serif; align:center;}
+
+
+#links a:hover {color:red;}
+#links a:link {color:white; text-decoration:none;}
+#links a:visited {color:white;}
